@@ -45,6 +45,9 @@
 <a href="https://github.com/sureshchand12a/chp-ads-block-detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshchand12a&repo=chp-ads-block-detector&theme=light" />
 </a>
+<a href="https://github.com/sureshchand12a/Content-Restriction-Plugin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshchand12a&repo=Content-Restriction-Plugin&theme=light" />
+</a>
 
 <div align="center">
 
