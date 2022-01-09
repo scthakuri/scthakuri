@@ -1,4 +1,4 @@
-### Hi there, I am Suresh Chand 👋
+### Hi there, I'm Suresh Chand👋
 
 - 🔭 I’m currently working on HamroCSIT
 - 🌱 I’m currently learning Python
