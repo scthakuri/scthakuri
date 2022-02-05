@@ -26,7 +26,7 @@
 
 [![Twitter: scthakuri1](https://img.shields.io/twitter/follow/scthakuri1?style=social)](https://twitter.com/scthakuri1)
 [![GitHub sureshchand12a](https://img.shields.io/github/followers/sureshchand12a?label=follow&style=social)](https://github.com/sureshchand12a)
-[![website](https://img.shields.io/badge/PortfolioWebsite-suresh.hamrocsit.com-2648ff?style=flat-square&logo=google-chrome)](https://suresh.hamrocsit.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-sureshchand.com.np-2648ff?style=flat-square&logo=google-chrome)](https://sureshchand12a.github.io/portfolio/)
 
 **Languages and Tools:**  
 
