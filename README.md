@@ -16,7 +16,7 @@
 <br/>
 
 - 🔭 I’m currently working on [HamroCSIT](https://hamrocsit.com/)
-- 🌱 I’m currently learning Competative Programming
+- 🌱 I’m currently learning Competitive Programming
 - 👯 I’m looking to collaborate on [HamroCSIT](https://hamrocsit.com/)
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about PHP, React Native or any related tech-related stuff
