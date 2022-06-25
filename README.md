@@ -2,19 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshchand12a&label=Views&color=blue&style=plastic" alt="sureshchand12a" /> </p>
 
-<a href="https://twitter.com/scthakuri1">
-  <img align="left" alt="Suresh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/sureshchand12a">
-  <img align="left" alt="Suresh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/scthakuri/">
-  <img align="left" alt="Suresh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br/>
-<br/>
-
 - 🔭 I’m currently working on [HamroCSIT](https://hamrocsit.com/)
 - 🌱 I’m currently learning Competitive Programming
 - 👯 I’m looking to collaborate on [HamroCSIT](https://hamrocsit.com/)
@@ -28,31 +15,19 @@
 [![GitHub sureshchand12a](https://img.shields.io/github/followers/sureshchand12a?label=follow&style=social)](https://github.com/sureshchand12a)
 [![website](https://img.shields.io/badge/PortfolioWebsite-sureshchand.com.np-2648ff?style=flat-square&logo=google-chrome)](https://sureshchand12a.github.io/portfolio/)
 
-**Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/scthakuri) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15819198) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/scthakuri1) 
 
-<a href="https://github.com/sureshchand12a">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshchand12a&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/sureshchand12a">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sureshchand12a&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-<a href="https://github.com/sureshchand12a/chp-ads-block-detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshchand12a&repo=chp-ads-block-detector&theme=light" />
-</a>
-<a href="https://github.com/sureshchand12a/Content-Restriction-Plugin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshchand12a&repo=Content-Restriction-Plugin&theme=light" />
-</a>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sureshchand12a&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sureshchand12a&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshchand12a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/sureshchand12a/sureshchand12a/blob/output/github-contribution-grid-snake.gif)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sureshchand12a&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
 
