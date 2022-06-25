@@ -1,4 +1,4 @@
-## Hola, I'm [Suresh Chand!](https://chandsuresh.com.np) 👋
+## Hello, I'm [Suresh Chand!](https://chandsuresh.com.np) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshchand12a&label=Views&color=blue&style=plastic" alt="sureshchand12a" /> </p>
 
