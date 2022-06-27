@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on [HamroCSIT](https://hamrocsit.com/)
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about PHP, React Native or any related tech-related stuff
-- 📫 How to reach me: [Twitter - @scthakuri1](https://twitter.com/scthakuri1), [Facebook - @scthakuri](https://youtube.com/scthakuri)
+- 📫 How to reach me: [Twitter - @scthakuri1](https://twitter.com/scthakuri1), [Facebook - @scthakuri](https://facebook.com/scthakuri)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours in programming.
 
