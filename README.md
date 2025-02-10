@@ -6,17 +6,17 @@
     </h1>
 </a>
 
-<a href="https://sureshchand.com.np"><h3 align="center">A passionate Fullstack developer from Nepal 🇳🇵</h3></a>
+<a href="https://sureshchand.com.np"><h3 align="center">Fullstack Developer from Nepal 🇳🇵</h3></a>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Tool Kits PRO**
+ 🔭 I’m currently working on **Practet**
  
- 🌱 I’m currently learning **Tailwind, React, Node**
+ 🌱 I’m currently learning **Tailwind, React, Django**
 
- 💬 Ask me about **PHP, Javascript, React Native, Firebase... or anything [here](https://github.com/scthakuri/scthakuri/issues)**
+ 💬 Ask me about **Python, Dajngo, PHP, Javascript, React Native, Firebase... or anything [here](https://github.com/scthakuri/scthakuri/issues)**
  
  </div>
 
@@ -39,6 +39,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,github,javascript,typescript,express,firebase,c,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mysql,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=django,python,react,nextjs,javascript,typescript,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=php,wordpress,bootstrap,mysql,html,css,git" />
 </div>
